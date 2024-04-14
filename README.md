@@ -11,3 +11,5 @@ also special weapons for taking out the competition and boss fish
 If you want to use the new gaming platform to invest money in different games, download the new Orion Stars gaming platform
 
 which you can easily get on their official website, a bonus when you go through the repository
+
+[<img src="https://github.com/kapriolbedros/orion-stars/blob/main/Orion%20Stars.png"/>]
